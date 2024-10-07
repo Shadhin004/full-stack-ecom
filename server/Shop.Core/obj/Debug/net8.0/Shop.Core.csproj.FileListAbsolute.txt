@@ -1,0 +1,12 @@
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\bin\Debug\net8.0\Shop.Core.deps.json
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\bin\Debug\net8.0\Shop.Core.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\bin\Debug\net8.0\Shop.Core.pdb
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfoInputs.cache
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfo.cs
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.csproj.CoreCompileInputs.cache
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.sourcelink.json
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\refint\Shop.Core.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\Shop.Core.pdb
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Core\obj\Debug\net8.0\ref\Shop.Core.dll

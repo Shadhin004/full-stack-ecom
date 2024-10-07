@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Infrastructure\\Shop.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\Shop.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\Shop.Controller.csproj",
+        "projectName": "Shop.Controller",
+        "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\Shop.Controller.csproj",
+        "packagesPath": "C:\\Users\\Walton\\.nuget\\packages\\",
+        "outputPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Walton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj"
+              },
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj",
+        "projectName": "Shop.Core",
+        "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj",
+        "packagesPath": "C:\\Users\\Walton\\.nuget\\packages\\",
+        "outputPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Walton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Infrastructure\\Shop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+        "projectName": "Shop.Infrastructure",
+        "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Walton\\.nuget\\packages\\",
+        "outputPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Walton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\Shop.Controller.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Controller\\Shop.Controller.csproj"
+              },
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj"
+              },
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj",
+        "projectName": "Shop.Service",
+        "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\Shop.Service.csproj",
+        "packagesPath": "C:\\Users\\Walton\\.nuget\\packages\\",
+        "outputPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Walton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "D:\\Shadhin\\Portfolio Website\\Full stack\\full-stack-ecom\\server\\Shop.Core\\Shop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

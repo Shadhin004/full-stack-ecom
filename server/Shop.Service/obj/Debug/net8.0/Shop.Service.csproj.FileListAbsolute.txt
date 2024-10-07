@@ -1,0 +1,16 @@
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\bin\Debug\net8.0\Shop.Service.deps.json
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\bin\Debug\net8.0\Shop.Service.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\bin\Debug\net8.0\Shop.Service.pdb
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\bin\Debug\net8.0\Shop.Core.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\bin\Debug\net8.0\Shop.Core.pdb
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.csproj.AssemblyReference.cache
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.AssemblyInfoInputs.cache
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.AssemblyInfo.cs
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.csproj.CoreCompileInputs.cache
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.sourcelink.json
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Ser.08872B82.Up2Date
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\refint\Shop.Service.dll
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\Shop.Service.pdb
+D:\Shadhin\Portfolio Website\Full stack\full-stack-ecom\server\Shop.Service\obj\Debug\net8.0\ref\Shop.Service.dll
